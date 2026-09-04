@@ -1,21 +1,42 @@
 body {
-  background-color: rgb(66, 20, 20);
+  background-color: rgb(148, 146, 146);
 }
 
 h1 {
-  color: white;
+  color: rgb(0, 0, 0);
   text-align: center;
+  font-size: 60px;
 }
+/*h2 seccion "proyecto"*/
 h2 {
-  color: white;
+  color: rgb(75, 70, 74);
+  font-size: 40px;
+  margin: 0;
+}
+/* Id "proyecto"*/
+#proyecto {
+  border: 3px solid rgb(43, 43, 44);
+  border-radius: 8px;
+  background: rgb(200, 200, 229);
+  padding: 15px;
+  max-width: 500px;
+}
+/*Parrafo "proyecto"*/
+p1 {
+  color: rgb(77, 65, 65);
+  font-size: 20px;
+  margin: 0;
 
 }
+/*h3 seccion "integrantes"*/
 h3 {
-  color: white;
+  color: rgb(1, 1, 1);
 }
 
 p {
-  color: white;
+  color: rgb(5, 5, 5);
   font-family: verdana;
   font-size: 30px;
 } 
+
+
